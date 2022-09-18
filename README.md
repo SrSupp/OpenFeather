@@ -8,6 +8,9 @@ However, no commercial models exist to explain this principle to schoolchildren 
 In this repository are the stl files of such a model, which can be printed by a commercial FDM-3D printer. A flexible material must be used for printing.
 
 ## Background 
+
+<a href="url"><img src="https://globalflyfisher.com/image.php?size=w556&file=https://globalflyfisher.com/sites/default/files/new_anatomy.jpg" width="75%"></a>
+
 <a href="url"><img src="Pictures/CAD_Hook.PNG" width="100%"></a>
 
 ## Printing
