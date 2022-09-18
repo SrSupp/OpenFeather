@@ -9,7 +9,7 @@ In this repository are the stl files of such a model, which can be printed by a 
 
 ## Background 
 
-<a href="url"><img src="https://globalflyfisher.com/image.php?size=w556&file=https://globalflyfisher.com/sites/default/files/new_anatomy.jpg" width="75%"></a>
+![schematic view](https://globalflyfisher.com/image.php?size=w556&file=https://globalflyfisher.com/sites/default/files/new_anatomy.jpg)
 
 <a href="url"><img src="Pictures/CAD_Hook.PNG" width="100%"></a>
 
