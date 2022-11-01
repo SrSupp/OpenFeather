@@ -10,7 +10,7 @@ In this repository you will find the stl files of such a model, which can be pri
 ## Background 
 
 In a bird feather, the distal barbules and proximal barbules look something like this: 
-<a href="url"><img src="https://globalflyfisher.com/image.php?size=w556&file=https://globalflyfisher.com/sites/default/files/new_anatomy.jpg" width="75%"></a>
+<a href="[url](https://globalflyfisher.com/tie-better/the-nature-of-feather-construction-0)"><img src="https://globalflyfisher.com/image.php?size=w556&file=https://globalflyfisher.com/sites/default/files/new_anatomy.jpg" width="75%"></a>  
 [Image credit: Wayne Luallen](https://globalflyfisher.com/tie-better/the-nature-of-feather-construction-0)
 
 In the OpenFeather, this mechanism is divided into two separate parts:
